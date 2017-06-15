@@ -28,6 +28,7 @@
 #include <gnuradio/filter/mmse_fir_interpolator_cc.h>
 #include "baz_fractional_resampler_cc.h"
 #include <stdexcept>
+#include <stdio.h>
 
 namespace gr {
   namespace baz {
